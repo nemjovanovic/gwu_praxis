@@ -1,0 +1,1 @@
+# FAVAR-Net forecaster model
