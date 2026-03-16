@@ -76,7 +76,6 @@ Raw datasets must be sourced independently and placed in `data/raw_datasets/`. R
 - **Quality of Government (QoG)** — University of Gothenburg
 - **Worldwide Governance Indicators (WGI)** — World Bank
 - **Capital Account Openness (ka_open)** — Chinn-Ito Index
-- **ESDB Crisis Database** — European Stability Mechanism
 - **Global macro series** — VIX, commodity prices, oil prices, interest rates
 
 See `data/construction.py` for the full list of required files and indicator codes.
